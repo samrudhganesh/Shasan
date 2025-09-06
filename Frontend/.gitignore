@@ -1,0 +1,21 @@
+# OS / User junk
+*.log
+*.tmp
+*.dat
+*.lock
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.iml
+
+# System directories
+AppData/
+Downloads/
+Music/
+Videos/
+Saved Games/
+VirtualBox VMs/
